@@ -18,6 +18,3 @@
 - **Programming**: Enjoy working with HTML5, CSS3, JavaScript ES6, React and Next.js. Additionally, familiar with TypeScript, Redux, React Native, Bootstrap, Tailwind, Jest, AJAX, and JSON.
 - **Languages**: Keen interest in languages and improving my Spanish proficiency.
 - **Hobbies**: Enjoy reading, playing instruments  and exploring new places.
-
-📫 **Get in Touch**:
-- Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mbustun/) .
